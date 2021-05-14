@@ -1,4 +1,4 @@
-![Moshe Levy]()
+<img src="background.jpg" width="100%" height="350" alt="Moshe Levy">
 
 <!--
 **lgmnemesis/lgmnemesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
