@@ -1,4 +1,16 @@
-<img src="background.jpg" width="100%" height="350" alt="Moshe Levy">
+<img src="background.jpg" width="100%" height="250" alt="Moshe Levy">
+
+<p align="start"></p>
+
+<p align="start"></p>
+
+<br>
+<p align="end">
+  <a href="http://twitter.com/moshe_levy">
+    <img src="https://img.shields.io/twitter/follow/moshe_levy?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 
 <!--
 **lgmnemesis/lgmnemesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
